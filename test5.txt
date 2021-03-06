@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Andrey
+=======
+Sergey
+>>>>>>> new_name_branch
 dasgdsgdfsg
